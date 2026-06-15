@@ -91,8 +91,8 @@ class Developer {
 </p>
 
 <p align="center">
-  <a href="https://github.com/CoolSpidey89/Library-Management-System">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CoolSpidey89&repo=Library-Management-System&theme=tokyonight" />
+  <a href="https://github.com/CoolSpidey89/ExamChain-AI">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CoolSpidey89&repo=ExamChain-AI&theme=tokyonight" />
   </a>
   <a href="https://github.com/CoolSpidey89/Attrition-Prediction">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CoolSpidey89&repo=Attrition-Prediction&theme=tokyonight" />
