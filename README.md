@@ -83,19 +83,19 @@ class Developer {
 
 <p align="center">
   <a href="https://github.com/CoolSpidey89/Smart-Expense-Visualizer">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CoolSpidey89&repo=Smart-Expense-Visualizer&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=OmParida89&repo=Smart-Expense-Visualizer&theme=tokyonight" />
   </a>
   <a href="https://github.com/CoolSpidey89/github-profile-analyzer">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CoolSpidey89&repo=github-profile-analyzer&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=OmParida89&repo=github-profile-analyzer&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/CoolSpidey89/ExamChain-AI">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CoolSpidey89&repo=ExamChain-AI&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=OmParida89&repo=ExamChain-AI&theme=tokyonight" />
   </a>
   <a href="https://github.com/CoolSpidey89/Attrition-Prediction">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CoolSpidey89&repo=Attrition-Prediction&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=OmParida89&repo=Attrition-Prediction&theme=tokyonight" />
   </a>
 </p>
 
@@ -104,8 +104,8 @@ class Developer {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CoolSpidey89&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CoolSpidey89&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmParida89&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmParida89&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
@@ -116,7 +116,7 @@ class Developer {
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/CoolSpidey89/CoolSpidey89/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/CoolSpidey89/OmParida89/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
