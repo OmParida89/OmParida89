@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # once a day, ~11:30 PM IST
+    - cron: "0 18 * * *"
   workflow_dispatch:
   push:
     branches: ["main"]
@@ -10,10 +10,10 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 8
     permissions:
       contents: write
     steps:
-      # Main overview card — activity, languages, achievements
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -29,8 +29,8 @@ jobs:
           plugin_languages_details: percentage
           plugin_achievements: yes
           plugin_achievements_threshold: C
+          use_prebuilt_image: false
 
-      # Project cards — one per featured repo
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -38,6 +38,7 @@ jobs:
           template: repository
           repo: OmParida89/Smart-Expense-Visualizer
           config_animations: yes
+          use_prebuilt_image: false
 
       - uses: lowlighter/metrics@latest
         with:
@@ -46,6 +47,7 @@ jobs:
           template: repository
           repo: OmParida89/github-profile-analyzer
           config_animations: yes
+          use_prebuilt_image: false
 
       - uses: lowlighter/metrics@latest
         with:
@@ -54,6 +56,7 @@ jobs:
           template: repository
           repo: OmParida89/ExamChain-AI
           config_animations: yes
+          use_prebuilt_image: false
 
       - uses: lowlighter/metrics@latest
         with:
@@ -62,3 +65,4 @@ jobs:
           template: repository
           repo: OmParida89/Attrition-Prediction
           config_animations: yes
+          use_prebuilt_image: false
