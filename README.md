@@ -17,13 +17,7 @@
 ## 🛠 Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,react,tailwind,django,mongodb,supabase,vercel,vscode,figma,git&theme=dark" />
-
-</div>
-
-<div align="center">
-<sub>ML / Data: Pandas · NumPy · Matplotlib · PowerBI · Google Colab</sub>
 </div>
 
 <br/>
@@ -31,21 +25,11 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/OmParida89/Smart-Expense-Visualizer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=OmParida89&repo=Smart-Expense-Visualizer&theme=tokyonight" />
-</a>
-<a href="https://github.com/OmParida89/github-profile-analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=OmParida89&repo=github-profile-analyzer&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/OmParida89/ExamChain-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=OmParida89&repo=ExamChain-AI&theme=tokyonight" />
-</a>
-<a href="https://github.com/OmParida89/Attrition-Prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=OmParida89&repo=Attrition-Prediction&theme=tokyonight" />
-</a>
-
+<a href="https://github.com/OmParida89/Smart-Expense-Visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmParida89&repo=Smart-Expense-Visualizer&theme=tokyonight" /></a>
+<a href="https://github.com/OmParida89/github-profile-analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmParida89&repo=github-profile-analyzer&theme=tokyonight" /></a>
+<br/>
+<a href="https://github.com/OmParida89/ExamChain-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmParida89&repo=ExamChain-AI&theme=tokyonight" /></a>
+<a href="https://github.com/OmParida89/Attrition-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmParida89&repo=Attrition-Prediction&theme=tokyonight" /></a>
 </div>
 
 <br/>
@@ -53,18 +37,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=OmParida89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=OmParida89&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmParida89&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmParida89&theme=tokyonight&hide_border=true" />
-
 </div>
-
-<br/>
-
-<div align="center">
-<img src="https://github.com/OmParida89/OmParida89/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer"/>
