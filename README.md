@@ -30,7 +30,7 @@
 </p>
 <p align="center">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=OmParida89&repo=ExamChain-AI&theme=tokyonight" />
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=OmParida89&repo=Attrition-Prediction&theme=tokyonight" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=OmParida89&repo=ClauseIQ&theme=tokyonight" />
 </p>
 
 ## 📊 GitHub Stats
