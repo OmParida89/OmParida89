@@ -15,6 +15,7 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/overview.svg
@@ -22,6 +23,7 @@ jobs:
           base: header, activity, community, metadata
           config_timezone: Asia/Kolkata
           config_animations: yes
+          debug: yes
           plugin_languages: yes
           plugin_languages_analysis_timeout: 5
           plugin_languages_analysis_timeout_repositories: 5
@@ -29,40 +31,39 @@ jobs:
           plugin_languages_details: percentage
           plugin_achievements: yes
           plugin_achievements_threshold: C
-          use_prebuilt_image: false
 
       - uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/project-expense-visualizer.svg
           template: repository
           repo: OmParida89/Smart-Expense-Visualizer
           config_animations: yes
-          use_prebuilt_image: false
 
       - uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/project-github-analyzer.svg
           template: repository
           repo: OmParida89/github-profile-analyzer
           config_animations: yes
-          use_prebuilt_image: false
 
       - uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/project-examchain.svg
           template: repository
           repo: OmParida89/ExamChain-AI
           config_animations: yes
-          use_prebuilt_image: false
 
       - uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/project-attrition.svg
           template: repository
           repo: OmParida89/Attrition-Prediction
           config_animations: yes
-          use_prebuilt_image: false
