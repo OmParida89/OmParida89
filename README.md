@@ -24,20 +24,18 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<a href="https://github.com/OmParida89/Smart-Expense-Visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmParida89&repo=Smart-Expense-Visualizer&theme=tokyonight" /></a>
-<a href="https://github.com/OmParida89/github-profile-analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmParida89&repo=github-profile-analyzer&theme=tokyonight" /></a>
-<br/>
-<a href="https://github.com/OmParida89/ExamChain-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmParida89&repo=ExamChain-AI&theme=tokyonight" /></a>
-<a href="https://github.com/OmParida89/Attrition-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmParida89&repo=Attrition-Prediction&theme=tokyonight" /></a>
-</div>
-
-<br/>
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=OmParida89&repo=Smart-Expense-Visualizer&theme=tokyonight" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=OmParida89&repo=github-profile-analyzer&theme=tokyonight" />
+</p>
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=OmParida89&repo=ExamChain-AI&theme=tokyonight" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=OmParida89&repo=Attrition-Prediction&theme=tokyonight" />
+</p>
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=OmParida89&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmParida89&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmParida89&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=OmParida89&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OmParida89&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
