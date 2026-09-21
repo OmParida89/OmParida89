@@ -65,10 +65,10 @@
 ## 🧩 What I Work With
 
 **Frontend:** React, JavaScript, TypeScript, Tailwind CSS, HTML, CSS, Vite  
-**Backend:** Django, Flask, Node.js, Express  
-**Databases:** MongoDB, MySQL, Supabase  
+**Backend:** Django, Node.js, Express  
+**Databases:** MongoDB, Supabase  
 **AI / ML:** Python, Scikit-learn, Pandas, Machine Learning, GenAI  
-**Tools:** Git, GitHub, Vercel, VS Code, Figma
+**Tools:** Git, GitHub, Vercel, VS Code, Figma, PowerBI, Tableau
 
 <br/>
 
