@@ -118,28 +118,6 @@
 
 <br/>
 
-## 🤝 Let's Connect
-
-I'm always open to discussing **projects, internships, hackathons, open-source and interesting ideas.**
-
-<p align="center">
-
-<a href="https://linkedin.com/in/omparida07">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:om.25741@sscbs.du.ac.in">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/OmParida89">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-<br/>
-
 <div align="center">
 
 ⭐ If you find something interesting here, feel free to explore my repositories!
