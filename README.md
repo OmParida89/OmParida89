@@ -50,13 +50,13 @@
 
 ### 🤖 AI / ML / Data
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,pandas,numpy,matplotlib,seaborn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark" />
 
 <br/><br/>
 
 ### 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,powerbi,tableau,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
 </div>
 
