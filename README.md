@@ -38,25 +38,25 @@
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" />
 
 <br/><br/>
 
 ### 🗄️ Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,supabase,vercel&theme=dark" />
 
 <br/><br/>
 
 ### 🤖 AI / ML / Data
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,pandas,numpy,matplotlib,seaborn&theme=dark" />
 
 <br/><br/>
 
 ### 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,powerbi,tableau,figma&theme=dark" />
 
 </div>
 
